@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=xogns4909&fontSize=70&fontAlign=85&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=xogns4909&fontSize=70&fontAlign=80&fontAlignY=40&animation=fadeIn)
 
 > # [👨🏻‍💻 포트폴리오](https://cold-willow-d83.notion.site/1-7f1f24acc8cc470fbe917537627f97bf?pvs=4)
 
